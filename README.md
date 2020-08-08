@@ -1,3 +1,5 @@
+# DEPRECATED: No longer maintained
+
 #Meteor and Cordova example
 This is a simple test for using Meteor with Cordova / Phonegap
 
